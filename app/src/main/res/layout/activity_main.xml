@@ -28,7 +28,7 @@
         android:layout_width="360dp"
         android:layout_height="140dp"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="550dp"
+        android:layout_marginTop="551dp"
         app:srcCompat="@drawable/masteryframe" />
 
     <TextView
